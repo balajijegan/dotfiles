@@ -1,0 +1,7 @@
+source ~/.vimrc
+" source ~/.mutt/vimspell.vim
+" highlight SpellErrors ctermfg=Red cterm=underline term=reverse
+set filetype=mail " correct syntax highlighting
+set textwidth=72  " wrap at column 72
+set spell
+set noautoindent
